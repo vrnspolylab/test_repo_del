@@ -1,0 +1,1074 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>read krista glover's arrest form.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:49:10 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:11.8040385</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"></div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">я
+
+REPORT NUMBER
+SJSO55ARR018276
+ST JOHNS COUNTY SHERIFFS OFFICE
+4015 LEWIS SFEEDWAY
+ST. AUGUSTINE. FL
+a'
+
+ARREST REPORT
+
+Report Date / Time
+05/13/201812:28 AM
+Agency Case/Offense Number OCA Number
+SJS0180FF005148
+other Number
+SJSO18CAD072673
+LOCATION OF OCCURRENCE
+County
+ST. JOHNS
+Address
+4612 MARSH HAWK PL, PONTE VEDRA, FL 32082
+Range of Ooourrence Date/Time
+05/12/2018 07:30 PM to 05/12/2018 08:06 PM
+Latitude
+N 30 12 48.32
+Longitude
+w 81 23 54.68
+PERSON:SUSPECT
+First Name
+Middle Name
+CONLEY
+Last Name
+GLOVER
+Suffix Date of Birth
+08/10/1981
+зг
+Weight	Hair Eyes
+108	BLN I HAZ
+)nver“s LTCense or other ID State Class or Type
+G416503817900
+Race
+Sex Height
+F 5'07"
+KRISTA
+w
+
+Master Name Index Number
+SJSO18MNI017335
+Place of Birth
+PORTLAND
+Nation
+UNITED STATES
+FL
+E
+Address
+8031 SOUTH EAST HIDDEN BRIDGE COURT
+City
+state zip code
+	33248
+Phone
+JUPITER
+CHARGES
+  Counts Charge Number
+Charge
+BATTERY
+1
+784.03.1a1
+chargeDegree
+FIRST DEGREE
+TOUCH OR STRIKE
+Charge Level
+MISDEMEANOR
+tjeneral Lmense code
+Bond Amount
+L[] Hate Cnme 1  Domestic Violence
+PRINCIPAL
+  Counts Charge Number
+  1	843.02
+Charge
+RESIST OFFICER
+Charge Level
+MISDEMEANOR
+Charge Degree
+FIRST DEGREE
+Genera) Cffense code
+PRINCIPAL
+Bond Amount
+□ Hate Cnme □ Domestic violence
+OBSTRUCT wo VIOLENCE
+PROBABLE CAUSE
+ГНЕ UNDERSIGNED CERTIFIES AND SWEARS THAT THERE IS PROBABLE .CAUSE TO BELIEVE THE ABOVE-NAMED DEFENDANT. WHO WAS
+POSITIVELY IDENTIFIED BY FLORIDA DRIVER’S LICENSE, ON THE 12 DAY ÔF MAY, 2018. AT APPROXIMATELY 8:43 0 A.M. [X] P.M. AT 4612
+MARSH HAWK PLACE WITHIN ST. JOHNS COUNTY. VIOLATED THE LAW ANb DID THEN AND THERE:
+784.03.1a1 Battery - Domestic Violence
+Krista Cpniey Glover dici actually and intentionally touch or strike Lucas Henley Glover against his wili.
+Lucas and Krista are in an intimate married reiationship. and reside as a famiiy with their two kids. Whiie at the residence. Krista forcefuiiy attacked Lucas,
+causing injury to his right arm. During the aitercation. Lucas' mother. Hershey H. Giover, intervened in the aitercation to teii Krista to stop. At this time. Krista
+diverted her attention, and the attack. from Lucas to Hershey. During the aitercation with Hershey. Krista caused muitipie lacerations to both of Hershey's
+arms. Due to the injuries observed on Lucas's arm and his verbal statements made. probable cause was established to arrest Krista for Domestic Battery.
+843.02 Resisting Without Vioience
+While escorting Krista to the patroi car. after restraining her in handcuffs. Krista began forcefuiiy attempting to separate herself from the control of Deputy
+Schneider. Krista was refusing to sit in the patroi car and resisted being piaced in the car by continuing to tense her body and biocking herseif from sitting
+down in the car. While attempting to piace Krista in the car. she proceeded to wrap her iegs and feet around the door and frame of the car preventing the
+lower half of her bodily from entering the vehicie. By pushing and puiiing. Deputy Schneider and i were eventuaiiy abie to get Krista piaced in the back seat of
+the patroi car. After being secured in the back of the patroi car. Krista began screaming whiie forcefuiiy kicking the rear driver’s side door of the patroi car
+causing the door to visibiy separate from the ceii of the door frame.
+1.	HAS PERPETRATOR EVER USED A WEAPON AGAiNST YOU OR THREATENED YOU wiTH A WEAPON? YES [ ] NO [X]
+2.	HAS PERPETRATOR THREATENED TO KiLL YOU OR YOUR CHiLDREN?
+3.	DO YOU THiNK PERPETRATOR is.cAPABLE OF KiLLiNG YOU?
+4.	GPS ELECTRONic MONITORiNG RECOMMENDED BY LAW ENFORCEMENT:
+NOTE: GPS ELECTRONic MONiTORING IS REQUESTED IF ONE OR MORE ARE CHECKED YES
+YES I j NO [X]
+YES[]N0[X]
+YES[] N0[X]
+CITATION NO.	
+DOMESTIC VIOLENCE: ixj
+PROBATION: D YES [X] NO IF YES. LOCATION:
+ENGLISH: [Xj YES nNO
+ATTACHMENTS. STATEMENTS: П TRAFFIC CITATIONS: П DUI: 0
+SEXUAL PREDATOR: П YES [Xj NO
+DEAF/MUTE: nYES [xjNO
+LEO BOND
+Bond Amount $
+□
+COURT APPEARANCE INFORMATION
+Court
+ST JOHNS COUNTY COURT
+Court Date 6 Time
+Court Phone
+(904) 819-3600
+Court Address
+4010 LEWIS SPEEDWAY. ST AUGUSTINE. FLORIDA 32084
+Instrtictlons
+ARREST RiEPORT
+SJSO55ARR018276
+Page 1 of 2
+I   r oG Q
+Filed for record 05/14/2018 01:01 PM Clerk of Court St. Johns County, FL
+
+OBTS Number	'I®'' Booking Number
+Report Dete/Time
+05/’l3/2018 12:28 АП/1
+Agency Case/Offense Number OCA Number
+SJS0180FF005146
+other Number
+SJSO18CAD072673
+ARREST INFORIVIATION
+Arrest Date / Time
+05/12/2018 08:43 PM
+Residency
+Within state
+Extent of Injury
+Refused treatment
+
+.esist Arrest
+Injured
+othef Pefson
+es
+Pnor Arrests
+Arrest Jurisdiction
+Within jurisdiction
+Alcohol
+Yes
+Dnigs
+No
+ARREST LOCATION
+County
+ST. JOHNS
+Address
+4612 iviARSH HAWK PLACE. PONTE VEORA, FL 32082
+ARREST DELIVERED TO
+Jail / Booking Paclllty
+ST. JOHNS COUNTY JAIL
+ILOCatlon
+|3955
+Phone
+904-824-8304
+LEWIS SPEEPWAY. ST. AUGUSTiNE. FL 32084
+ARRESTING OFFICER
+
+I
+ошсег Call Number Ofricer Name
+3881
+MAYERLEN, CLAYTON c
+Subsclibed and swom to /or affirmedt hefore me this p dav of
+as identification.	y
+.Notary Public _LEO  co
+who is V Dersonaliv known to me or
+A.D
+
+has produced
+
+Ш
+Commission No:'.
+Il/ly Commission Expires:'.
+Signature
+ARREST REPORT
+SJSO55ARR018276
+Page 2 of 2
+J
+LAW ENFORCEMENT VICTIM NOTIFICATION CARD
+(ATTACH TO ARREST REPORT)
+	 REPORT/  	
+H г
+DEEENDAm-'s NAME.
+DATE
+
+ûlicNQr
+NAME OF VICTIM
+NAME OF SECOND LE\'EL CONTACT
+
+
+ADDRESS
+ADDRESS
+
+TELEPH0N   *SI'1 *
+(\p
+Т7 \ш\а0}г 3«1
+CITY
+CITY
+STA-
+тц ’ 'ЬОЧГ
+TELEPHONE n
+
+CELLPHONES
+CELLPHONES
+
+1
+OFFICER NAME
+(	) NOTIFICATION WAIVED
+SIGNATURE OF VICTIM OR DESIGNEE
+AnEMPTED CONTACT PRIOR TO RELEASE:
+ATTEMPTED CONTACT AFTER RELEASE-
+ATTEMPTED CONTACT AFTER RELEASE
+ATTEMPTED CONTACT AFTER RELEASE
+ATTEMPTED CONTACT AFTER RELEASE.
+DAIE.
+DATE.
+DATE
+TIME.
+'ПМЕ
+TIME
+TIME
+TIME
+SUCCESSFUL?.
+SUCCESSFUL?
+SUCCESSFUL?
+SUCCESSFUL?
+SUCCESSFUL?
+DATE.
+DATE.
+NAME OF PERSON CONTACTED.
+BOOKING STAFF
+LETTER MAILED
+DATE OF LETTER
+BOOKING STAFF
+**vtcTIM NOTIFICATION INFORMATION FOR RELEASE TO VICTIM OR DESIGNATED CONTACT PERSON ONLY**
+**CONFIDENTTAL**
+(I ate)
+
+ON
+.. I.
+RECEIVED A COPY OF THE VICTIM RIGHTS GUIDE.
+(Print victinTS Name)
+(Deputy’s Name)
+i
+EXPLAINED THE CONTENTS AND ADVISED q
+PROBABLE NO CONIACT ORDER.
+\ SIGNATURE OF VIC'nM
+REVISED II/20/I5
+SISO-311A
+
+ADDITIONAL VICTIM CONTACT INFORMATION
+SCHOOL
+WORK
+CONTACT NAME
+SUPERVISOR'S NAME
+ADDRESS
+ADDRESS
+STATE
+ZIP
+ZIP.
+CITV
+CITY
+STATE
+TELEPHONE/I
+TELEPHONE //
+THIRD LEVEL CONTACT
+SECONDARY ADDRESS
+EXPLANATION
+EXPLANATION
+ADDRESS
+ADDRESS
+ZIP
+STATE
+CITY
+STATE.
+ZIP.
+CITY
+TELEPHONE и
+TELEPHONE ê
+CELLPHONE#
+CELLPHONE#
+SJSO-ЗПВ
+REVISED 11/20/13
+ST. JOHNS COUNTY SHERIFPS OFFICE
+4015 LEWIS SPEEDWAY
+ST. AUGUSTINE, FL 32084
+(904)824-8304
+SUPPLEIVIENT NUMBER
+2
+OFFENSE REPORT
+Agency Case Number
+SJS0180FF005146
+Report Date/Time
+05/12/2018 09:58 PM
+Offense Description
+0414 BATTERY-DOIVIESTIC VIOLENCE
+CAD tncldent Number
+SJSO18CAD072673
+Extemal Case Reference Number
+Range of Occurrence Date/Time
+05/12/2018 07:30 PM to 05/12/2018 08:06 PM
+LOCATION OF OCCURRENCE
+County
+ST. JOHNS
+Address
+4612 MARSH HAWK PL, PONTE VEDRA, FL 32082
+Latitude	Longitude
+30.2134232848513 -81.3985220668696
+
+condition
+Location Category
+Residence
+Location Type
+Single Tamily residence
+Location Description
+Location t>tatus
+Inhabited
+Weather
+l clear
+□Cloudy
+□Fog
+□Rain
+□ Snow
+□Hall
+□other
+□ Unknown
+PERSON: OTHER PERSON
+nlR IÏÏEY
+
+Last Name
+GLOVER
+Suffix Date of Birth
+08/01/1955	  w
+Race
+Sex
+Heght we ht
+Hair
+Eyes
+UNK
+F
+GRY
+Master Name index Number
+SJSO18MNi017325
+Place of Birth
+Nation
+Drivers License or other ID
+004726884 
+btate Glass or Type
+sc
+E
+Address
+4 HENSON PLACE
+City
+County
+state Zip Code
+29650
+Phone
+GREER
+sc
+Residence status
+Within iurisdiction
+Vehicle on Report Associated with Person
+ГП Arrested
+Plwanted
+PERSON:SUSPECT
+Suffix
+°0Ш1°6/Т9 81 Ш	r	' 18™ BtN   AZ
+First Name
+KRisTA
+M.dleNgJe
+bt vlR
+Master Name Index Numbar
+SJSO18MNI017335
+Place of Birth
+PORTLAND
+tatlon
+UNITED STATES
+Drivers Ucense or other ID
+G418503817900
+btate L.lass or 1 ype
+FL
+E
+Address
+8031 SOUTH EAST HIDDEN BRIDGE COURT
+City
+Ccunty
+FLAGLER
+state Zip Code
+33248
+Phene
+912-577-9037
+JUPITER
+Residence Status
+within state
+Vehicle on Report Associated with Person
+I □wanted
+Arrested
+Ocoupatlon
+Employer
+UNEIVIPLOYED
+Master Business Index Number
+Address
+city
+state Zip Cbde
+Phone
+PERSON: VICTIM
+Sex
+“Г s' b
+First Name
+LUCAS
+IH'ltDtrY
+Last Name
+GLOVER
+Suffix Date of Birth
+11/12/1979
+
+Race
+w
+M
+rvlaster Name inaex Number Klace от Ulnh
+Nation
+Drivars License or otnar iD
+G416528794120
+stata Class or Type
+SJSO18IIÜNI017324
+FL
+E
+Address
+8031 SE HIDDEN BRIDGE CT
+City
+County
+state Zip Code
+FL 33458
+Phone
+912-577-9037
+JUPITER
+Residence status
+vehicle on Repon Assoctated with Person
+I □Wanted
+□Arrested
+Within state
+Occupation
+GOLFER
+Employer
+SELF EivIPLOYEED
+Master Business Index Number
+Address
+city
+state zip code
+Phone
+CHARGES
+  counts lch um ber
+ixfTERY
+
+i  NOR
+
+Code
+□ Hate Cnme
+Domestio Violence
+Charge Description
+TOUCH OR STRIKE
+ counts cna geN
+umbBr
+Charae
+RESisT OFFICER
+
+
+ШШШ
+Code
+□ Hate Cnme
+□ Domestio Violence
+Charge Description
+OBSTRUCT wo vioLENCE
+PROPERTY iTEivIS
+  Property Code
+r EviDENCE
+Article Type
+COMPACT DISCS
+Description
+COPY OF 911 AUDIO RECORDING
+Brand
+Model
+Senal Number
+OAN
+Qty
+Value
+Recovered Date/Time
+Recovered Value
+1
+1
+0
+  Property Code
+r EVIDENCE
+Article Type
+COMPACT DISCS
+IDescrIptlon
+IPHOTOS OF LUCAS AND HERSHEY’S INJURIES
+Brand
+Model
+Senal Number
+OAN
+Qty
+Value
+Recovered Date/Time
+Recovered Value
+1
+1
+0
+INITIAL NARRATIVE: 05/12/201810:01 PM
+Reporting Ofticer
+Approving Supervisor
+call Numper utticar Nama
+3881 MAYERLEN, CLAYTON c
+Permanent ID Number
+Approved
+bupervisor Name
+Permanent ID Number
+SJS015PER000042
+0
+YEOMAN, SCOTT M
+SJS006PER000084
+On Mav 12,2018 at approximatelv 2025 Hours. I responded to 4612 Marsh Hawk Place in reference to a Disturbance.
+Offense Report
+Page 1 of 5
+Agency case.Number
+SJS0180FF005146
+Repcn Date/Time
+05/12/2018 09:58 PM
+Offense Desalptlon
+0414 BATTERY-DOMESTIC VIOLENCE
+CAD Inadent Number
+SJSO18CAD072673
+Extemal Case Reference Number
+Range of Occurrence Date/Time
+05/12/2018 07:30 PM to 05/12/2018 08:08 PM
+When I arrived on scene, 1 observed a male and a female standing on the front porch, In a verbal altercatlon. As I
+approached the residence, the Complalnant, who was Identified as Krista Glover, met me In the roadway In front of
+the house. Krista stated there was an altercatlon, however everything was fine and did not wish to have their
+Information shared because of who they were. Krista stated she was a Glover, her mother-in-law was a Glover and
+her husband was Lucas Glover. Krista stated the altercatlon was between her, her husband and her mother-in-law,
+and her mother-in-law attacked her. Krista's mother-in-law and husband, Lucas Glover, was Identified by their
+Issued driver’s llcense. While talking with Krista, there were no signs of an altercatlon or Injuries on her person.
+Krista stated she did not need any medical assistance from Fire/Rescue, and how her dad was en route from Jupiter
+Florida to pick her and their kids up. I Informed Krista to wait In the roadway, while I approached the residence to
+check on Lucas and Hershey.
+As I approached the residence, Lucas was standing on the front porch, while Hershey was standing In the den. 1
+adviseci Lucas I would be right back to talk with him, and proceeded to enter the residence to check on Hershey
+Glover. As I approached Hershey, I observed multiple lacerations to Hershey's left and right arm with blood on her
+clothing and skin. After talking with Hershey, she advised she received cuts on both of her arms and was hit In the
+chest during the altercatlon. I asked Hershey If she would like rescue to come to the residence tp complete a
+medical evaluation, which she replied, "No". While talking with Hershey, Lucas stated to myself and his mom how
+he was tired of the altercatlons and Krista always acting the way she does, and to go ahead and tell me (Deputy
+Mayerlen) the truth of what happened. While talking with Hershey, she stated Lucas and Krista were In an
+altercatlon. During the altercatlon, Hershey stepped In to stop the situation, at which time Krista turned her
+aggression from Lucas to Hershey. Krista began striking Hershey In her arm, causing the lacerations to her skin.
+During the altercatlon between Krista and Hershey, Lucas separated both parties and told them to go to their
+respected rooms. I asked Hershey for a second time If she needed any medical treatment by Fire/Rescue, to which
+she refused for a second time.
+After talking with Hershey, I made contact with Lucas Glover. Lucas stated the altercatlon began earller In the
+evening after playing a bad round of golf. Lucas advised me every time he plays poorly In a tournament, Krista
+begins yelling at him, stating he IS a “loser’’ and “pussy’’ and ultimately starting an altercatlon with him about his
+performance. Lucas stated Krista had been drinking throughout the day, and after playing a bad round of golf today,
+she began yelling at him In front of their kids and his mother. Lucas advised Krista to stop the argument, while In
+front of the kids. After arriving back at the residence, Krista proceeded to put their kids in bed. Lucas stated while
+he was on the back porch relaxing from the day, Krista exited onto the porch and began a physical altercatlon with
+him causing a laceration to his right arm. Lucas stated Krista acts this way and starts altercatlons all the time, but
+has never done so In front of his mom. Due to the altercatlon occurring In front of Hershey, Hershey stepped In
+between Krista and Lucas while telling Krista to stop In attempt to end the situation. At that time, Lucas stated
+Krista redirected her anger and the altercatlon from him to his mom: During the altercatlon, Krista caused multiple
+lacerations to both of Hershey's arms and was also striking Hershey In the chest. I asked Lucas If he was willing to
+complete a sworn affidavit, regarding the Incident and altercatlon. Lucas stated he was willing to complete a written
+statement.
+After talking with all parties Involved, I exited the residence where I met up and spoke with Deputy L. Schneider.
+While talking with Deputy Schneider, Krista's father arrived on scene. I advised him to remain near his vehicle for
+the time being, while I figure out the situation going on. Krista's father complied with the orders given.
+Due to the Injuries observed on Lucas's arm and his verbal statements made, probable cause was established to
+arrest Krista for Domestic Battery. After securing Krista In handcuffs, Lucas became Irrational. Once Deputy
+Schneider had control of Krista, I approached the front of the house where I met with Lucas to explain the situation.
+While talking with Lucas, Depu  Schneider escorted Krista to the patrol car where she was going to secure her In
+the back seat, as Krista was becoming verbally and physically aggressive. While escorting Krista to the vehicle, I
+heard Deputy Schneider and Krista start yelling with each other. As I approached the vehicle and Deputy Schneider,
+I observed Deputy Schneider pushing against Krista In attempt to put her In the back of the patrol car, as Krista was
+tensing her body and blocking herself from sitting down In the car. While attempting to place her In the car, Krista
+proceeded to wrap her legs and feet around the door and frame of the car preventing the lower half of her bodily
+from entering the vehicle. By pushing and pulling. Deputy Schneider and I were eventually able to get Krista placed
+In the back seat of the patrol car. After being secured In the back of the patrol car, Krista beqan screaming while
+Offense Report
+Page 2 of 5.
+Agency case Number
+SJSO18OFF00S146
+Repolt Date/Time
+05/12/2018 09:58 PM
+Offense Description
+0414 BATTERY-DOMESTIC VIOLENCE
+CAD Incident Number
+SJSO18CAD072673
+Extemal Case Fteference Number
+Range of Occurrence 0агея|те
+05/12/2018 07:30 PM to 05/12/2018 08:06 PM
+forcefully kicking the rear dnver’s side door of the patrol car causing the door to visibly separate from the cell of the
+door frame. During the altercation, Lucas and Krista's father were standing in the roadway, observing the
+altercatlon and Krista's resistance.
+After advising Lucas of Krista's arrest, he proceeded to change his previous statement about the altercation. Lucas
+then stated he was not fighting with Krista, and received the laceration during the altercation between Krista and
+Hershey. After further conversation, Lucas refused to complete a sworn affidavit. While completing the Victim
+information Biue Card and providing Lucas with Domestic Violence Packet, Lucas and Krista's dad continued to ask
+and change the stories of what occurred to prevent the arrest of Krista. it should be noted Krista continued to yell at
+her dad and Lucas from the back of the patrol car. Due to Krista not wearing any shoes, Lucas collected additional
+clothing for Krista which was transported to the jail with her.
+While talking with Krista's father and Lucas, Lucas proceeded to advise Deputy Schneider, Krista's father, and
+myself again of what occurred eariier in the night. Lucas stated he wanted Krista's father to hear what has been
+happening, as he was not aware of Krista's actions and how she was treating him. Again, Lucas stated how every
+time he plays a bad round of golf, Knsta proceeds to start an altercation with him and telling him how he is a “ioser”
+and a “pussy”, how he needs to fire everyone, and how he better win or her and the kids would leave him and he
+would never see their kids again. Lucas stated he was tired of ali the aitercations and couldn't take it anymore. After
+talking with Lucas and Krista's father, Lucas COTItinued changing his story and how no physicai aitercations
+occurred.
+Krista was transferred from Deputy Schneider's patrol car to mine, without further aitercation. Due the verbal
+statements and injuries observed, Krista was transported to the jaii for Domestic Battery and Resisting without
+Vioience.
+Whiie en route to the jail, Krista continued yeiling she was hurting due to the handcuffs being too tight around her
+wrist.. With Deputy Schneider following behind me, I notified Dispatch, via radio, that we were stopping at the Sheli
+Gas statiorron A1A to loosen the handcuffs. After adjusting the handcuffs on Krista, with the supervision of Deputy
+Schneider, Krista proceeded to remove her left hand from the handcuff, un securing herself in the back of the patroi
+car. Deputy Schneider and I proceeded to re secure Krista behind her back to prevent further issues. Whiie en route
+to the jaii, Krista spontaneously stated, ''Wait tiil the Tour hears about this, you will loose your job'', ''This is why
+cops get shot in the face'' and ''Wait till I talk with the judge, you will be fucking fired over this''. Krista continued
+yelling while being transported to the jail.
+Lucas, Krista and their 2 kids, reside in the same house as an intimate married couple. At the time of the aitercation,
+Lucas, Krista, Hershey and the 2 children were residing at the listed rentai property address. Hershey refused to
+pursue charges against Krista for Battery, or complete a sworn affidavit. Photos where taken at the scene of Lucas
+and Hershey's injuries, and a copy of the 911 call was collected and submitted into evidence. The Victim information
+Blue Card was completed and submitted with the arrest report. I read the Domestic Violence questionnaire to Lucas
+Glover, which he answered ''No'' to all three.
+1.	HAS PERPETRATOR EVER USED A WEAPON AGAINST YOU OR THREATENED YOU WITH A WEAPON? YES [ ]
+NO [XI
+2.	HAS PERPETRATOR THREATENED TO KILL YOU OR YOUR CHILDREN?
+YES[]NO
+[X]
+3.	DO YOU THINK PERPETRATOR IS CAPABLE OF KILLING YOU?
+4.	GPS ELECTRONIC MONITORING RECOMMENDED BY LAW ENFORCEMENT:
+YES [ ] NO [X]
+YES[] NO
+[X]
+NOTE: GPS ELECTRONIC MONITORING IS REQUESTED IF ONE OR MORE ARE CHECKED YES
+PROBABLE CAUSE NARRATIVE: 05/12/201810:01 PM
+Reporting Officer
+Approving Supervjsor
+Officer Narne
+call Number
+3881
+pelTnanent ID Number
+SJS006PER000084
+Pernlanent ID Number
+Approvea
+bupervisor Name
+YEOMAN, SCOTT M
+MAYERLEN, CLAYTON c
+SJS015PER000042
+El
+THE UNDERSIGNED CERTIFIES AND SWEARS THAT THERE IS PROBABLE CAUSE TO BELIEVE THE
+ABOVE-NAMED DEFENDANT, WHO WAS POSITIVELY IDENTIFIED BY FLORIDA DRIVER’S LICENSE, ON THE 12
+DAY OF MAY, 2018, AT APPROXIMATELY 8:43 П A.M. ГХ1 P.M. AT 4612 MARSH HAWK PLACE WITHIN ST. JOHNS
+Offense Report
+Page 3 of 5
+Agenoy Case Number
+SJS0180FF005146
+Report Date/Time
+05/12/2018 09:58 PM
+Offense Description
+0414 BA1TERY-DOMESTIC VIOLENCE
+CAD Incident Number
+SJSO18CAD072673
+Extemal Case Reference Number
+Range of Occurrence Date/Time
+05/12/2018 07:30 PM to 05/12/2018 08:05 PM
+COUNTY, VIOLATED THE LAW AND DID THEN AND THERE:
+784.03.1 a1 Battery - Domestic Violence
+Krista Conley Glover did actually and Intentlonally touch or strike Lucas Henley Glover against his will.
+Lucas and Krista are in an Intimate married relatlonship, and reside as a family with their two kids. While at the
+residence, Krista forcefully attacked Lucas, causing Injury to his right arm. During the altercatlon, Lucas' mother,
+Hershey H. Glover, Intervened In the altercatlon to tell Krista to stop. At this time, Krista diverted her attention, and
+the attack, from Lucas to Hershey. During the altercatlon with Hershey, Krista caused multiple lacerations to both of
+Hershey's arms. Due to the Injuries observed on Lucas's arm and his verbal statements made, probable cause was
+establlshed to arrest Krista for Domestic Battery.
+843.02 Resisting without violence
+While escorting Krista to the patrol car, after restraining her In handcuffs, Krista began forcefully attempting to
+separate herself from the control of Deputy Schneider. Krista was refusing to sit In the patrol car and resisted being
+placed In the car by continuing to tense her body and blocking herself from sitting down In the car. While
+attempting to place Krista In the car, she proceeded to wrap her legs and feet around the door and frame of the car
+preventing the lower half of her bodily from entering the vehicle. By pushing and pulling. Deputy Schneider and I
+were eventually able to get Krista placed In the back seat of the patrol car. After being secured In the back of the
+patrol car, Krista began screaming while forcefully kicking the rear driver’s side door of the patrol car causing the
+door to visibly separate from the cell of the door frame.
+1.	HAS PERPETRATOR EVER USED A WEAPON AGAINST YOU OR THREATENED YOU WITH A WEAPON? YES [ ]
+NOIX]
+2.	HAS PERPETRATOR THREATENED TO KILL YOU OR YOUR CHILDREN?
+YES[]NO
+[X]
+3.	DO YOU THINK PERPETRATOR IS CAPABLE OF KILLING YOU?
+4.	GPS ELECTRONIC MONITORING RECOMMENDED BY LAW ENFORCEMENT:
+YES [ ] NO [X]
+YES I] NO
+[X]
+NOTE: GPS ELECTRONIC MONITORING IS REQUESTED IF ONE OR MORE ARE CHECKED YES
+CITATION NO.	
+DOMESTIC VIOLENCE: [X]
+PROBATION: DYES [X] NO IF YES, LOCATION:
+ENGLISH: [X] YES Q NO
+ATTACHMENTS, STATEMENTS: D TRAFFIC CITATIONS: D DUI: D
+SEXUAL PREDATOR: D YES [X] NO
+DEAF/MUTE: DYES [X]N0
+SUPPLEMENTAL NARRATIVE: 05/13/2018 04:28 AM
+Reporting Officer
+Approving Supervisor
+Officer Name
+Call Number
+Pennanent ID NumDer
+Approved
+Supervisor Name
+YEOMAN, SCOTT M
+Permanent ID NumDer
+SCHNEIDER, LOREN
+3441
+SJS006PER000771
+El
+SJS005PER000084
+I responded to 4612 Marsh Hawk Place In reference to a disturbance. Upon my arrival, I assisted Deputy Clayton
+Mayerlen with a domestic violence Investigation. According to Deputy Mayerlen, Lucas Glover stated his wife,
+Krista Glover, was being verbally abusive towards him then physically attacked him. Which Is when, L. Glover’s
+mother, Hershey Glover, attempted to stop her. K. Glover then began attacking H. Glover.
+Deputy Mayerlen then placed K. Glover In handcuffs as I stood with her In the driveway while Deputy Mayerlen
+continued his Investigation. K. Glover then became belllgerent and started screaming to her father who was
+standing In the cul-de-sac. I asked K. Glover to calm down several times and she continued to scream. I then
+escorted K. Glover towards my patrol car while holding onto her left arm which was secured behind her back. While
+walking towards my car, K. Glover abruptly jerked away from me In an attempt to run away, towards her father,
+with the hold I had on her left arm, I was able to swing her around and put her up against the rear driver’s side of
+my patrol car. While doing so, her father came towards me. I Instructed him to stay back. I then opened the rear
+driver’s side door and Instructed K. Glover to get In. K. Glover refused to get Into the vehicle and continued to
+scream for her father. At this time. Deputy Mayerlen observed me struggling with K. Glover and came to assist.
+Deputy Mayerlen went to the passenger side of my vehicle and was able to assist by pulling K. Glover Into the
+vehicle as I removed her feet from the underneath of the rear driver’s side door which she was clinqinq to In order
+Offense Report
+Page 4 of 5
+Agency Case Number
+Report Date/Time
+05/12/2018 09:58 PIVI
+Offense Description
+0414 BATTERY-POMESTIC VIOLENCE
+SJS0180FF005146
+CAD tncldent Number
+SJSO18CAD072673
+Extemal Case Reference Number
+Range of OCCJITence Date/Time
+05/12/2018 07:30 PM to 05/12/2018 08:06 PM
+to keep US from placing her into the patrol car. During the struggle, I Instructed K. Glover several times to stop
+resisting. L. Glover also came up behind me during the struggle to assist with calming K. Glover down and he was
+also instructed to stay back. Once K. Giover was secured in the back of my patrol car, she continued to scream and
+kicked the bars covering the driver’s side window and the driver’s side door severai times. It should be noted at no
+time did K. Glover attempt to strike or kick me.
+Once it was expiained that K. Giover was going to jail for domestic battery, L. Giover then stated that she did not
+put hands on him. He then said that he got the bruise on the inside of his right bicep when he was breaking up the
+fight between H. Giover and K. Glover during which K. Giover was swinging at him. L. Giover then refused to
+complete an affidavit, however he aiiowed. Deputy Mayerlen to take a picture of his arm. i compieted a victim
+notification card and gave L. Giover a Domestic Vioience packet.
+K. Glover was then removed from my vehicle and transferred into Deputy Mayerien’s patroi car to be transported
+to the county Jaii. Whiie en route, Depu  Mayerien asked me to meet with him to assist with adjusting K. Giover’s
+handcuffs. While in the parking lot of Daily’s, off Corridor Road, K. Glover held her bare wrist up to the window to
+show myself and Deputy Mayerlen that she removed her handcuffs. Deputy Mayerlen then re-secured her without
+further incident. It should be noted my patrol car incurred damage from K. Giover repeatediy kicking the bars on
+the window. The bars were bent back preventing the rear dnver’s door from iocking without manuaiiy pressing
+down the door iock. No further action taken by this deputy.
+ASSISTING OFFICERS
+Rank
+Officer Name
+L. SCHNEIDER
+ID Number
+sf JbHNS COUNTY SHERIFFS OFFICE
+ DEP
+3441
+REPORTING OFFICER / SUPERVISOR APPROVAL
+Reporting Offioer
+Approving Supervisor
+Cali Number
+3881
+Name
+ID Number
+капк
+Name
+MAYERLEN, CLAYTON c
+2904
+LE SGT
+YEOMAN, SCOTT M
+Signature
+Signature
+Page 5 of 5
+Offense Report
+ST. JOHNS COUNTY SHERIFF'S OFFICE
+GLOVER, KRISTA CONLEY
+BOOKING INFORMATION
+
+
+о HIGH PROFILE
+о SUICIDAL
+□ ESCAPE RISK
+□ HOLD Agency:
+Booking No: SJSO1SJBN0021ii
+Aciciress
+MNI No: SJS018 NI01733S
+Cell Assigned: SJSO* BKG*003*001
+: 8031 SOUTH EAST HIDDEN BRIDGE COURT
+City, state Zip: JUPITER, FL 33248
+Telephone Number: (912)977-9107
+Citizenship: UNITED STATES
+County: CUMBERLINE
+Build Skin Напь
+SSN
+DOB: 08/10/1981 Place of Birth: CUMBERUNE
+DL No: 0416503817900
+SID No:
+FBI No:
+City, state: PORTLAND, MAINE
+Race Gender Height Weigllt Hair
+Eyes
+w
+F
+5'07'*
+108
+BLN
+HAZ
+Occupation:
+Employer : UNEMPLOYED
+Telephone:
+Date Booked: 05/12/2018
+Time Booked: 22:22
+Booked By: ZELLER, RACHEL
+Property Bag No:	
+Date Released:
+Time Released:
+Searched By: HUIE, TAVIA
+Printed By: SAINT. CHRISTOPHER s
+Inmate Phone PIN::
+Photo By: SAINT. CHRISTOPHER s
+Right index Finger Out
+Rtgllt Index Finger In
+MNI No
+SJSO18MNIOi7335
+Booking No
+SJSO18JBH002199
+I have been advised any property valued over $100 is to be released or rnailed at my own expense within five (5) days.
+I understand that my phone/canteen passcode are confidential and created by me. I will not sllare this number witfl anyone. I arn fully responsible for
+all usage and monetary obligations associated with the passcode. SJSO is not responsible for loss of funds to my account.
+XI
+Defendant signature
+Date
+Date
+Officer Signature
+ NINO: SJSO18MNI01733S
+Booking No: SJS018JBN002199
+Pnhted On:	05/13/2018 02:29
+Page 1 of 1
+User Name: RZELLER
+ST. JOHNS COUNTY SHERIFF'S OFFICE
+GLOVER KRISTA CONLEY
+Case/Charge Report
+Booking No: SJS018JBN002199
+MNI No: SJSO18MNi017335
+Cell No:
+Case Number: CASE0001
+Court Case Number: 000-0000
+Arrest Number: SJSO55ARR018276
+Offense NO:SJS0180FF005146
+Arresting Agency: ST. JOHNS COUNTY SHERIFFS OFFICE
+Court:
+Bond Information: By Judge:
+By LEO:
+$2,500.00
+$0.00
+OBTS: 5504014153
+Arresting Ofncer: MAYERLEN, CLAYTON c
+Case Comments: NO VIOLENT CONTACr WITH LUCAS GLOVER
+NO VICnM CONTACr wrrH HERSHEY GLOVER
+Sentence Information
+start Date:
+Length: Od Oh Om
+Credit for Time Served: Od Oh Om
+End Date:
+□ Dept of Corrections
+□ Good Conduct Gain Time
+Actual Time Sen/ed: Od Oh Om
+Time Worked in Jaii: Oh Om
+Gain Time Credit: Od Oh Om
+Time Remaining: Od Oh Om
+□ Extra Gain Time
+□Weekender
+Charge Number: CHRG0001
+Counts: 1	statute: 784.03.1 a1
+Charge Descnption:
+TOUCH OR STRIKE
+Comments:
+POMESTIC
+Charge Number: CHRG0002
+Counts: 1	statute: 843.02
+Charge Description:
+RESISTING ARREST wrrHOUT VIOLENCE
+Comments:
+No comments available.
+Bond: $1,000.00
+Charge Code: BATTERY
+Status: PENDING
+Bond : $1,500.00
+Charge Code:RESIST OFFICER
+Status: PENDING
+Inmate Signature
+Officer Signature
+Page 1 of 1
+Printed On: 5/14/201810:30 AM
+User Name: ACAIN
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
