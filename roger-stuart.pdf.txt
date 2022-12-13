@@ -1,0 +1,868 @@
+<html>
+<head>
+    <title>Result</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./resources/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./resources/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <style>
+        #content {
+            background-color: #FCFCFC;
+            border: 1px solid #999999;
+            padding: 10px 10px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border-radius: 4px;
+            /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+            opacity: 0.87;
+            -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 87);
+            /*-ms-filter must come before filter*/
+            filter: alpha(opacity = 87);
+            /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+            /*All filters must be placed together*/
+
+        }
+
+        #infodiv
+         {
+
+
+            border: 0px rgb(89,89,89) solid;
+
+            background: rgb(234, 234, 228);
+
+        }
+    </style>
+</head>
+<body>
+    <center><h1>Data Extraction - Result</h1></center>
+    <div class="container">
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <dl class="dl-horizontal">
+                    <dt>File name:</dt>
+                    <dd>roger-stuart.pdf</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Provider name:</dt>
+                    <dd>AbbyyProvider</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Created On:</dt>
+                    <dd>8/12/2020 4:49:27 PM</dd>
+                </dl>
+                <dl class="dl-horizontal">
+                    <dt>Extraction duration:</dt>
+                    <dd>00:00:09.7414993</dd>
+                </dl>
+            </div>
+            <div class="col-md-1"></div>
+
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Extended Attributes</h3>
+                <div id="attributes"><table class="table table-hover"><thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+<tr><td>publisher</td><td>EPSON Scan</td></tr>
+</tbody></table>
+</div>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row" >
+            <div class="col-md-1" ></div>
+            <div class="col-md-9">
+                <h3>Content</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="content">ш THE стсип' COURT OF HOWARD COUNTY, ARKANSAS
+CRIMINAL DIVISION
+STATE OF ARKANSAS
+NO. CR-2010-з  и
+vs.
+INFORMATION FOR
+AGGRAVATED
+ASSAULT
+A.C.A. §5-13-204
+ROGER E. STUART
+DOB: 04/05/70 RACE: в SEX: M
+INFORMATION
+I, G. NATHAN STEEL, DEPUTY PROSECUTING ATTORNEY WITHIN
+AND FOR THE NINTH/WEST JUDICIAL CIRCUIT OF THE STATE OF
+ARKANSAS, of which Howard County is a part, in the пате and by the authonty of the
+State of Arkansas on oath, accuse the Defendant, ROGER E. STUART, of the cnme of
+AGGRAVATED ASSAULT, IN VIOLATION OF A.C.A. §5-13-204, committed as
+fouows, to-wlt; The said Defendant on or about the 14*'' day of March, 2010, in Howard
+County, Arkansas, did unlawfully, feloniously and knowingly.
+COUNT 1
+Under circumstances manifesting extreme indifFerence to the value of
+human life, he purposely engaged in conduct that creates a substantial
+danger of death or serious physical injuly to another person
+Felony: D
+Punishment: Imprisonment in the Arkansas Department of Corrections for
+a period not to exceed six (6) years, and/or a fine not to exceed $10,000.00
+COUNT 1
+COUNT 1
+against the peace and dignity of the State of Arkansas.
+
+BRYAN L. CHESSHIR
+PROSECUTTNG A/TOR ¥
+/л	//	É /
+-r
+
+«Е0
+
+
+G Nathan Steel
+Deputy Prosecuting Attomey
+
+
+
+Thie case eisigned to Jwdge 70111 Coogir
+DMSIOnI
+Contact his ofRce fbr setting
+p.o. Box 214 - Ashdown, AR 71822
+Î AayofMarch, 2010.
+SUBSCRIBED and SWORN to before me this
+
+r€.'t.
+CIRCUIT CLERK
+
+By.
+UTY CIRCUIT CLERK
+AFFIDAVIT FOR WARRANT OF ARREST FOR THE FOLLOWING PERSON:
+IN THE DISTRICT COURT OF HOWARD COUNTY, ARKANSAS
+Name: Roger E. Stuart
+DOB: 04-05-70
+Race: в
+Sex: M
+Felony: D
+Misdemeanor:
+Address: 1031 Wallace St. Ashdown, AR. 71822
+Phone:
+The undersigned afEant being duly sworn and deposed states that he or she has reason to believe that
+the above-named person has conimitted the offense of Aggravated Assault violating A.C. A § 5-13-
+204 on or about the 14*'' day of March 2010, conimitted by unlawfully and feloniously engages in
+conduct that creates a substantial danger of death or serious physical injury to another person in
+Howard County, Arkansas, against the peace and dignity of the State of Arkansas.
+Facts Constituting Reasonable Cause
+On March 14, 2010, Deputy John Glidewell was dispatched to Chapel Hill Street in Saratoga. The
+complainant, Charles Stuart, reported to the deputy that his brother, Roger Stuart, had shot at him
+and struck the back glass of his vehicle. Deputy Glidewell stated in his report that the back glass had
+a small hole in the drivers side.
+Deputy Glidewell and Hempstead County Deputy Jerry Crider went to a residence in Saratoga where
+Roger Stuart was at. Roger Stuart adniitted to the Deputy Crider that he did have a gun and did Еге
+some shots. Roger Stuart led the deputies to a shed beside the house and showed them where he hid
+the gun. Roger Stuart was later interviewed at the Sherifp s Department by Deputy Glidewell. Roger
+Stuart was advised of his Miranda Rights and provided a statement to the deputy saying that he
+argued with his brother and that he did fire a shot in the air and one into the ground as his brother was
+driving away.
+Afïldavit for Warrant of Arrest
+Page 2
+I swear that the allegations contained herein are the truth, the whole truth, and nothing but
+the truth.
+'I
+
+
+
+Investigator David Shelton
+Howard County Sherifps Department
+101 Isaac Perkins Blvd.
+Nashviüe, AR 71852
+(870) 845-2626
+
+
+
+
+Subscribed and swom before me this 15“ day of March, 2010.
+
+syfÂJ'ÂJL
+
+
+Notary Public
+
+My Commission expires:
+1 hereby hnd that this sworn affidavit demonstrates reasonable and probable cause for the
+issuance of a warrant of arrest for the above-named individual for the above-stated offense. Based
+on the contents of the foregoing affidavit, probable cause is found for the arrest/detention of Roger
+Stuart.
+Шё (
+(
+(Judge
+2-'  000.'"
+
+Bond is set in the amount of s
+
+
+'33
+X
+4
+
+/
+
+
+
+0.
+
+0.:
+'J?
+
+'•J f.. *
+IN THE CIRCUIT COURT OF HOWARD COUNTY, ARKANSAS
+PLAINTIFF
+STATE OF ARKANSAS
+CR-10-34-I
+vs
+ROGER E. STUART
+DEFENDANT
+ORDER OF DISMISSAL
+Comes now to be heard on this 17th day of March 2010, the Motion of the State of
+Arkansas, that the above-styled cause be dismissed; and the Court having considered same.
+HEREBY ORDERS, ADJUDGES AND DECREES that the above-styled cause hereby is
+dismissed.
+IT IS so ORDERED.
+
+
+CIRCUIT JUDGE
+
+
+
+
+mm
+h-J
+4 Ш It гвм
+llfellîtclerl
+ll'lwird Co»!’*'
+
+
+A'4 :
+.■*<ТТ14Г>>,
+.	,.* Д;-..,
+ч*у'
+
+у л
+BENCH WARRANT
+t
+
+,\
+Hr,c 2010-34-l
+-Д
+
+The State of Arkansas, to any Sheriff, Constable, Coroner, or Polioeman in this site
+YOU ARE COMMANDED forthwith to arrest
+and bring.
+an indictment In that Court against
+AGGItAVArED ASSAULT
+
+РППР'7? P
+.яттглг>т
+
+./к-
+Circuit Court,
+	for the offense of
+before the
+HIM
+
+ПГМАТ>п ппттту
+HIM
+or if the Court be adjourned for the Term, that you deliver.
+County.
+HTM
+to the Jailor of
+WITNESS my hand and the seal of said Court, this
+day of
+HOWAUn
+16TH
+MARCH
+20 10
+Clerk.
+T]  .JQ
+c
+DC
+state of Arkansas, County of Howard. I have this
+			_A.D., 20
+/7
+/
+day of
+duly served the within by arresting the said
+
+
+t
+e#t-
+
+
+FEES
+
+
+Service,
+Return,,
+$
+. /
+Mileage
+Total,..
+$
+$
+
+$
+4
+
+
+By
+
+D.s.
+./
+Filed this_/7 
+day of УГ) .   Û.
+20 /0
+2 JL 01 er 
+
+ Clerk.
+The defendant is to be admitted to bail in the sum of
+Dollars (	$25,000.00
+TWEHTY EIVE THOUSAHD   HO/00
+), and the same may be taken by the Sheriff of the County In which
+	arrested, or by the Shejjftof
+DEFENDANT
+HOWARD
+County.
+\
+Clerk.
+REQUEST FOR WAIVER OF PROSECUnoN
+’9 0 10-	f
+Date: March 17,2010
+Case Number:
+classif!catiou: Aggravated Assault
+Victim: Charles Stuart
+Defendant: Roger Stuart
+On this the 17“* day of March, 2010,1 respectâxlly request that the 9“* West Judicial Prosecuting
+Attorney’s ошсе not pursue any charges against Defendant Roger Stuart, which were filed on my
+behalf by the Ofhcers of the Howard County sheniF s ошсе. I understand that even with this request
+that the Prosecuting Attorney’s ofBce may deem it necessary to pursue said charges.
+I hereby release ofFICers of the Howard County Sherifps ошсе and employees of the 9“* West
+Judicial Prosecuting Attomey’s ofHce û-om any and all responsibilities they have for the investigation
+and or prosecution of said crime of Aggravated Assault, committed against me by said defendant
+on the 14*'* day of March, 2010.
+This request is being made of my own ffee will without pronlise, threat, or coercion by any person.
+
+/1J /
+
+Signature
+CERTIFICATION
+I hereby certi  that the foregoing waiver was read by me to the person who has afhxed his/her
+signature above, and that he/she also read it and signed it in my presence this the 17''* day of March,
+2010 at the Howard County Court House.
+
+
+■1
+
+
+
+Witness
+Signature
+П1Ш
+lî
+
+
+
+зт-дз-0ч,;2 FOBU NO. 990-025 {06-05)
+- Utln4( Iluâiol
+009862
+
+
+
+PRESS HARD, MAKING FOUR COPIES
+Ml-L INFORMATION IS ESSENTIAL
+TYPE OR PRINT WITH BLACK BALL POINT PEN
+m
+FIRST NAME
+UVST NAME
+FfNAL DISPOSmoN
+OF CHARGE REPORT
+MIDOLE NAME
+ARREST TRACKING NO-
+1000627
+Rcgar A EdIrArd
+staari;
+NO-1 CHARGE AT ARREST
+
+OATE OF BIRTIH
+PLACE OF BIRTH {ату, STATE)
+AR
+WGT
+P'LACE ALIASES ON
+SACK OF FINOERPRINT CARO
+
+/
+04 /0*  ЛО
+1
+nLbD CHARGE
+DOCKEr NO-
+ARRESTING AGENCY ORINC
+SEX
+RACE
+HGT
+EYES
+HAIR
+t
+кшухюййй
+rnn
+ж
+в.
+BroJ Llk 
+RNAL CHARGE
+DOMESTic
+□ VIOLENCE
+RELATED
+DATE ARRESTED
+AGENCY CASE NO
+ARRESTING OFncER
+03- 14- 
+Erie
+ABRESTjNG AGENCY
+Hovard County Sheriff's
+Devartlr.eat		
+□	NOT GUILTY
+□	NOLLE PROS,
+□	PUA-'DEFERRED
+ACTION TAKEN
+□	GUILTY
+□	ulsMISSED
+□	NOT FILEO
+□	OTHER
+SID NO
+FBI NO
+А| 32243а5
+ в7в93гс7
+EXPLAIN ОТНЕН
+□ USE ACT 346
+SENTENaNG COUFrr
+RNE
+SUSPENDED
+COST
+SUSPENDED
+JALTIME
+SUSPENDED
+PROBAЛON
+SUSPENDED
+RES TUTON
+FORM COMPLHTED BY AND DATE
+COURT DATE
+INSTTUTON CONFINED
+PLEA:
+Q GUILTY Q MOT GUILTY [i} NOLO CONTENDERE
+Distnct Couft complete form upon Япа| disposition of case in District Court. Retum to: Arkansas Crime information Center; No-1 Capitoi Mail; Littie Rock
+AR 72201. if case transferred to Circuit Court forward form to Prosecuting Attorney.
+PRESS HARD, MAKING FOUR COPIES
+
+ALL INFORMATioN !S ESSENTIAL
+TYPE CR PRINT WITH BLACK BALI. poiNT PEN
+LAST NAME
+RRST NAME
+m
+MiDDLE NAME
+ARREST TRACKiNG NO
+1000627
+Stuart
+Roqer
+Edward
+OF PERSON FINGER
+Л .		
+DATA MAY BE cdMPUTERIZED fN LOCAL, STATE .s.
+NA'noNAL RLES
+DATE OF BIRTH
+/ '
+04/оя/7П
+PUCE ALIASES ON
+BACK OF FINGERPRINT CARD
+PLACE OF BIRTH (OTY. STATE)
+Nashvi11p p AR
+VVGT
+AnRESTING AGENCV ORI NO
+SEX
+RACE
+r GT
+EYES
+HAJR
+1
+ДРПЯ1ПППП
+OHAFrGCANU СЮОЕ NUMBER j o: IhuK Ih bbLUNY/MIbuhMbaN о и
+509	 00
+FINGERPRiNTS
+M i я
+3ro [Bllc
+САГЕ ARRESTED
+AGENCY CAC-: NO
+ARRESTING OFrICER
+I
+/
+RRESTLE soc!AL SECURIr/ Nu
+0 я /1 Z] /1 0
+ITnh П F г 1 c П 1 1 г] p V7P 1
+ARRES-nNG AGENCY
+Howard County Sheriff's
+Deuartment
+SID NO
+FBI NO
+Aygravated Assault
+13-2-''T4	
+AR32243R-S
+  FEL □ V IS
+987893FC7 -
+
+COUNTRY OF CITIZENSHIP
+DRIVER u'.,Erc=c NO. AND STATE
+□ FEL □MIS
+2.
+Unjjbed States
+AR915791071
+CAUTION
+□ FEL □м|$
+3
+
+
+
+
+
+
+
+
+i I
+
+
+
+Ш
+
+I
+
+i
+
+1
+
+
+
+
+X
+
+
+.i-
+
+
+
+
+
+шть
+
+
+
+
+
+
+у
+
+■T
+a
+
+
+
+
+
+
+ct
+
+
+1 RIGHT THUMB
+2 RIGHT INDEX
+3 RIGHT MIDDLE
+4. RIGHT RING
+5 RIGHT UTTLE
+
+m
+
+m
+
+IV.'..
+
+
+
+
+
+11
+
+71 
+
+
+I2
+/>1
+ic!.
+
+
+I
+л:4---
+ш
+
+
+
+ш
+\\
+
+%
+щ
+
+,;,7
+ш
+if
+i
+
+
+
+
+
+
+
+
+
+ш
+ш
+1'
+
+
+ vj
+•.Vv .
+
+
+
+~.-
+6 LEFTTHUMB
+7. LEFTINDEX
+8 LEFT MIDDLE
+9 LEFrRING
+10 Lcrr UTTLE
+
+
+
+
+
+
+i
+Sx
+7.
+
+■ й
+'■■6'
+Ш
+■ Ш
+ъ
+
+
+
+
+mm.
+;УЗШ2-
+
+
+
+à
+
+
+’I
+ll)"'
+
+%
+
+If
+
+
+
+■Щ
+<y
+
+
+
+
+Ч
+
+
+1
+
+SUCH OISCLOSURE fs-’H-i DATORy OR
+,  eRs gpNEOUS.V
+M
+7.>'
+At:
+
+Ш:
+
+LEFT FOUR
+Y
+RIGHT тномв
+
+PRIVACY ACT OF
+P;'FEDERAL. ЗТАГЕ OR LOCAL AGENCIES INFORM INOIVIOUALS WHOSE
+. BASIS OF AurHORITY FOR SUCH SOLICITATION . ANO USES WHICH WILIi
+
+
+и
+I
+7.
+
+
+
+
+ЩШ-
+■:*rv
+
+
+\  V/ N  
+
+
+
+
+COVER SHEET
+!
+STATE OF ARKANSAS
+CRIMINAL INFORIVIATION
+This chminal infomlalion cover sheel or Ihe slandard criminal informalion form is required by Supreme Courl Admrnlslra(.ve Order Number 8 lo
+be compleled for eveo' defendani and filed by the proseculor. The data contained herein shall not be admissible as ev,dence in any court
+proceeding or replace or supplement the niing and service of pleadings; orders. or other papers as requ.red by lav/ or Supreme Court rule.
+Instructions are located on fhe back of the form.
+l/lj 	A	Number {   ‘C '0'~3>4. ~ I
+( r i f ktl! / Filing Date_
+(/f7	Шт.r-t _
+4 A h uaM
+District
+County
+Ш
+Division
+Judge
+Style of Case
+Prosecutor Providing Information
+□ Yes
+Is D being charged as a Habitual?
+Is this an Amended Information? lI]Yes
+If yes, are you
+Adding Offense(s)?
+Dropping Offense(s)?
+Chanqinq Offense(s)?
+Are multiple D's chacged in the infonTIation? □ Yes
+□Yes
+Is victim under the'a'ge of 14?
+□Yes
+□Yes
+□Yes
+:
+i-
+SID
+■Arrest Date
+Sex
+,  	Defendanrs Fdl N e ■ .	Date of Birth	Raœ
+iH irpr Ff	' Ш-3-П(}\. .é> \/у1
+
+. 1
+  7
+ésu ■
+Dnvët's Uœndé No. -
+
+■   ■Address (Street. Ctty. State. Zb)
+
+
+
+:
+W J
+
+Arrest Тгаф'пд # .
+■ .. Prosecutods File #
+
+c
+
+;;
+
+Alias .3
+■ Alias 2
+Alias 1
+;
+The aaached information accuses the above named defendant of the following cnme(s): -
+Class
+F/M
+Counts
+Offense Date
+A/s/C
+Offense
+с°ч°»	I    
+/ys /7 Л /'T
+Ù
+ь
+7
+
+n
+
+t.
+l»mse0Jting Attomey/Deputy Prosecuting Attorney
+
+Circuit С1егшери1у Clerk
+
+AOC 2/07
+</textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Header, Footer and Watermark</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="HeaderFooterWatermark"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>URL HYPERLINKS</h3>
+                <!--!<div id="content"> -->
+                <textarea class="form-control" cols="150" rows="30" id="Hyperlink"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-9">
+                <h3>Specific Excel Rows</h3>
+                <!--!<div id="content">  -->
+                <textarea class="form-control" cols="150" rows="30" id="SpecificRows"></textarea>
+
+
+                <!--</div>-->
+            </div>
+            <div class="col-md-1" style="white-space: pre-wrap"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
