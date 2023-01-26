@@ -7,11 +7,5 @@ DFsasadasdsad
 sasdasda
 sdasd
 sdasdasdad
-sdadadsasd
-\asdasd
-asdasd
 
-asdasdasd
-asdasdasd
-asdasdasd
 asdasdasd
